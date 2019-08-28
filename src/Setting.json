@@ -1,0 +1,60 @@
+{
+    "timeTable": [
+        {
+            "subject": "확률과 통계",
+            "teacher": "",
+            "startHour": 9,
+            "startMinute": 0,
+            "endHour": 9,
+            "endMinute": 10
+        },
+        {
+            "subject": "중국어 / 일본어",
+            "teacher": "",
+            "startHour": 10,
+            "startMinute": 0,
+            "endHour": 10,
+            "endMinute": 10
+        },
+        {
+            "subject": "기하와 벡터",
+            "teacher": "",
+            "startHour": 11,
+            "startMinute": 0,
+            "endHour": 11,
+            "endMinute": 10
+        },
+        {
+            "subject": "고전",
+            "teacher": "",
+            "startHour": 12,
+            "startMinute": 0,
+            "endHour": 12,
+            "endMinute": 10
+        },
+        {
+            "subject": "생명 과학 Ⅱ",
+            "teacher": "",
+            "startHour": 13,
+            "startMinute": 50,
+            "endHour": 14,
+            "endMinute": 0
+        },
+        {
+            "subject": "심화영어독해 Ⅱ",
+            "teacher": "김아무개",
+            "startHour": 14,
+            "startMinute": 50,
+            "endHour": 15,
+            "endMinute": 0
+        },
+        {
+            "subject": "심화영어회화 Ⅱ",
+            "teacher": "",
+            "startHour": 18,
+            "startMinute": 50,
+            "endHour": 18,
+            "endMinute": 51
+        }
+    ]
+}
