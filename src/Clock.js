@@ -53,6 +53,7 @@ export default class Clock extends Component {
                 <div>
                     <h3>{subject.subject}</h3>
                     <Timer endDate={new Date().setHours(subject.endHour, subject.endMinute, 0)} />
+                    <span>{subject.teacher}</span>
                 </div>
             )
         } else {

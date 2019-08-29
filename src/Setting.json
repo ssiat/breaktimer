@@ -33,16 +33,24 @@
             "endMinute": 10
         },
         {
+            "subject": "점심시간",
+            "teacher": "흰밥 / 수제비국 / 순살닭갈비 / 깻잎+쌈무 / 배추김치 / 부추겉절이 / 토마토",
+            "startHour": 13,
+            "startMinute": 0,
+            "endHour": 13,
+            "endMinute": 55
+        },
+        {
             "subject": "기하와 벡터",
             "teacher": "",
             "startHour": 13,
-            "startMinute": 50,
+            "startMinute": 55,
             "endHour": 14,
             "endMinute": 0
         },
         {
             "subject": "심화영어독해 Ⅱ",
-            "teacher": "김아무개",
+            "teacher": "",
             "startHour": 14,
             "startMinute": 50,
             "endHour": 15,
