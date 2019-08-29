@@ -59,7 +59,7 @@ export default class Clock extends Component {
         } else {
             return (
                 <div>
-                    {h}:{(m < 10 ? '0' + m : m)}:{(s < 10 ? '0' + s : s)}
+                    <h1>{h}:{(m < 10 ? '0' + m : m)}:{(s < 10 ? '0' + s : s)}</h1>
                 </div>
             )
         }
