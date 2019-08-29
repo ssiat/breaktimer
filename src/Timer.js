@@ -11,7 +11,7 @@ const renderer = ({ hours, minutes, seconds, completed }) => {
     }
 };
 
-export default class Clock extends Component {
+export default class Timer extends Component {
     constructor(props) {
         super(props)
     

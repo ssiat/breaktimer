@@ -1,7 +1,7 @@
 {
     "timeTable": [
         {
-            "subject": "확률과 통계",
+            "subject": "고전",
             "teacher": "",
             "startHour": 9,
             "startMinute": 0,
@@ -9,7 +9,7 @@
             "endMinute": 10
         },
         {
-            "subject": "중국어 / 일본어",
+            "subject": "심화영어회화 Ⅰ",
             "teacher": "",
             "startHour": 10,
             "startMinute": 0,
@@ -17,7 +17,7 @@
             "endMinute": 10
         },
         {
-            "subject": "기하와 벡터",
+            "subject": "윤리와 사상",
             "teacher": "",
             "startHour": 11,
             "startMinute": 0,
@@ -33,7 +33,7 @@
             "endMinute": 10
         },
         {
-            "subject": "생명 과학 Ⅱ",
+            "subject": "기하와 벡터",
             "teacher": "",
             "startHour": 13,
             "startMinute": 50,
@@ -49,12 +49,12 @@
             "endMinute": 0
         },
         {
-            "subject": "심화영어회화 Ⅱ",
+            "subject": "화학 Ⅱ",
             "teacher": "",
-            "startHour": 18,
+            "startHour": 15,
             "startMinute": 50,
-            "endHour": 18,
-            "endMinute": 51
+            "endHour": 16,
+            "endMinute": 0
         }
     ]
 }

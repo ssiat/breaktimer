@@ -51,9 +51,7 @@ export default class Clock extends Component {
         if ( this.state.isTimerEnable ) {
             return (
                 <div>
-                    {h}:{(m < 10 ? '0' + m : m)}:{(s < 10 ? '0' + s : s)}
-                    <h1>{subject.subject}</h1>
-                    <h2>{subject.teacher}</h2>
+                    <h3>{subject.subject}</h3>
                     <Timer endDate={new Date().setHours(subject.endHour, subject.endMinute, 0)} />
                 </div>
             )
